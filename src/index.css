@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input,
+textarea,
+select {
+  min-height: 30px !important;
+  width: 100% !important;
+}
